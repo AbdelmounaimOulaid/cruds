@@ -55,7 +55,7 @@ First Name<br>
 <input type="text" name="fname" />
 </div>
 <div style="float:left;width:25%;">
-Last Name<br>
+
 <input type="text" name="lname" />
 </div>
 <div style="float:left;width:25%;">
